@@ -17,3 +17,5 @@
 ### Demo Simple Framework
 
 TODO: document rest of the demo
+
+https://jenkins.autotests.cloud/job/qa_guru_browserstack_with_appium_tests/allure/#suites/40519761ceade02aeb1134ce2cb7bc55/26c3912968231349/
